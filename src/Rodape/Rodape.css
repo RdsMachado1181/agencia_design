@@ -1,0 +1,22 @@
+.Rodape{
+    width: 100%;
+    height: 200px;
+  
+}
+.Rodape >p {
+    color: GRAY;
+margin-bottom: 35px ;
+}
+.Rodape >picture > img {
+    width: 35px ;
+    height: 35px;
+    margin :10px;
+ 
+}
+
+.Rodape span {
+color: rgb(202, 202, 8);
+}
+.Rodape >#copy {
+    margin-top: 20px ;
+    }

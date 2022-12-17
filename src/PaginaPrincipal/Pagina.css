@@ -1,0 +1,45 @@
+.Pagina{
+    width: 100%;
+    height: 500px;
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.foto_container{
+    width: 50%;
+    height: 100%;
+ 
+}
+.foto_container >picture > #foto_banner{
+  width: 80%;
+  height: 100%;
+
+}
+.texto_container{
+    width: 50%;
+    height: 100%;
+   
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+}
+
+.texto_container p{
+    width: 100%;
+    font-size: 10px;
+}
+
+.texto_container h1 ,.texto_container span {
+  
+    font-size: 50px;
+}
+
+.texto_container span{
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
