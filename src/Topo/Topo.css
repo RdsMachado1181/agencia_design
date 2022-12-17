@@ -22,11 +22,12 @@ color: black;
 }
 .picture > #logo1{
 width: 40px;
-height: 40px;
+height: 35px;
 }
 
 .picture > button > #botao_ligth{
     width: 40px;
-    height: 40px;
-    border-style: none;
+    height: 35px;
+    
+    border: 1px solid #747272;
     }
