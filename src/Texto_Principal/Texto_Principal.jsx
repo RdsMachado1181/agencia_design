@@ -9,7 +9,7 @@ function Texto_Principal() {
         <section className="Texto_principal">
             <div className="texto_agrup">
           <h1>EXPERIÊNCIA DO TRABALHO </h1>
-           <hr id="linha"></hr>
+          <hr id="linha"></hr>
       <p>Há mais de 10 anos no mercado de Branding , Design Gráfico , Criação de Sites e Marketing <br/>
       Digital , nos empenhamos diariamente para entregar resultados que tragam impacto aos<br/>
       nossos clientes   </p>
@@ -19,7 +19,7 @@ function Texto_Principal() {
 <Quadro_Text 
      data="JUNHO 2012 - 2016" titulo="WEB DESIGNER " 
      empresa ="Pied piper StartUp" 
-     texto= "Criação de Landing Pages  sites institucionais e E-commerces comletamente personalizadas e otimizadas para buscadores"
+     texto = "Criação de Landing Pages  sites institucionais e E-commerces comletamente personalizadas e otimizadas para buscadores"
 />
 </div>
 <div>

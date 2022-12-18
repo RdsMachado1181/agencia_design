@@ -1,6 +1,8 @@
  
 import './App.css';
-
+import './App1024px.css';
+import './App768px.css';
+import './App375px.css';
 
 import Topo from './Topo/Topo';
 import Pagina from './PaginaPrincipal/Pagina';

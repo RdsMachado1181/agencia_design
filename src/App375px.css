@@ -1,0 +1,11 @@
+
+@media( width: 375px ){
+    .App {
+        width: 375px;
+        height: 100%;
+        text-align: center;
+      background-color: white;
+      
+      }
+      
+}
